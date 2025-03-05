@@ -23,7 +23,7 @@ Documentation for assignment 04b for Software integration course
 2. **Connect Using `psql`**:
    - Use the `psql` command-line tool to connect to the database (e.g. Git Bash). The command will look something like this:
      psql -h your-tunnel.loca.lt -p 5432 -U regular_user -d postgres
-   - Replace `your-tunnel.loca.lt` with the actual URL provided, `regular_user` with the username, and `postgres` with the database name.
+   - Replace `your-tunnel.loca.lt` with the actual URL provided.
 
 ## 3. Perform Queries as `regular_user`
 
