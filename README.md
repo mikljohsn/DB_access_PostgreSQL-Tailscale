@@ -26,7 +26,7 @@ Documentation for assignment 04b for Software integration course
 ## 3. Connect to the Database via CLI
 
 1. **Obtain the URL**:
-   - You will be provided with a local URL visible in the Tailscale adming console by the admin.
+   - You will be provided with a local URL visible in the Tailscale admin console by the tailnetwork admin.
 
 2. **Connect Using `psql`**:
    - Use the `psql` command-line tool to connect to the database (e.g. Git Bash). The command will look something like this:
