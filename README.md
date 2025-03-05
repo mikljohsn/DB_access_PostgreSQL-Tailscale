@@ -27,8 +27,8 @@ Documentation for assignment 04b for Software integration course
 
 ## 3. Perform Queries as `regular_user`
 
-1. **Log In as `regular_user`**:
-   Password: password
+1. **Log In as `regular_user`**.
+   password: password
 
 2. **Allowed Queries**:
    - Select data from permitted columns:
@@ -46,8 +46,8 @@ Documentation for assignment 04b for Software integration course
    - Exit the `psql` session:
      \q
 
-2. **Log In as `hr_user`**:
-   Password: hr_password
+2. **Log In as `hr_user`**.
+   password: hr_password
 
 ## 5. Commands for `hr_user`
 
