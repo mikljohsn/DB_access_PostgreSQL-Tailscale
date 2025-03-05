@@ -1,4 +1,4 @@
-# DB_access_PostgreSQL-localtunnel
+# DB_access_PostgreSQL/Tailscale
 Documentation for assignment 04b for Software integration course
 # PostgreSQL Database Access Guide
 
