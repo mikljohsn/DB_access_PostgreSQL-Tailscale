@@ -35,7 +35,7 @@ Documentation for assignment 04b for Software integration course
 ## 4. Perform Queries as `regular_user`
 
 1. **Log In as `regular_user`**.
-   password: password
+   - Password: password
 
 2. **Allowed Queries**:
    - Select data from permitted columns:
