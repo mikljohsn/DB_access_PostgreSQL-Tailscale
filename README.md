@@ -54,7 +54,7 @@ Documentation for assignment 04b for Software integration course
      \q
 
 2. **Log In as `hr_user`**.
-   password: hr_password
+   - Password: hr_password
 
 ## 6. Commands for `hr_user`
 
