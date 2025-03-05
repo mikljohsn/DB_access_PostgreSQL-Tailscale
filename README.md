@@ -28,7 +28,7 @@ Documentation for assignment 04b for Software integration course
 ## 3. Perform Queries as `regular_user`
 
 1. **Log In as `regular_user`**:
-   psql -h your-tunnel.loca.lt -p 5432 -U regular_user -d postgres
+   Password: password
 
 2. **Allowed Queries**:
    - Select data from permitted columns:
@@ -47,7 +47,7 @@ Documentation for assignment 04b for Software integration course
      \q
 
 2. **Log In as `hr_user`**:
-   psql -h your-tunnel.loca.lt -p 5432 -U hr_user -d postgres
+   Password: hr_password
 
 ## 5. Commands for `hr_user`
 
