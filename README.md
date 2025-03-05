@@ -15,6 +15,7 @@ Documentation for assignment 04b for Software integration course
 1. **Download PostgreSQL 17**:
    - Visit the official PostgreSQL website to download PostgreSQL 17: [PostgreSQL Downloads](https://www.postgresql.org/download/)
    - Follow the installation instructions for your operating system.
+   - Remember to add bin to path (for Windows systems)
   
 ## 2. Download and install Tailscale
 
