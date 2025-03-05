@@ -19,7 +19,7 @@ Documentation for assignment 04b for Software integration course
 ## 2. Download and install Tailscale
 
 1. **Download Tailscale**
-   - Go to [https://tailscale.com/download], and download & install
+   - Go to [Tailscale](https://tailscale.com/download), and download & install
    - Join the admins tailnetwork
 
 ## 3. Connect to the Database via CLI
