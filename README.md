@@ -41,10 +41,12 @@ Documentation for assignment 04b for Software integration course
 2. **Allowed Queries**:
    - Select data from permitted columns:
      SELECT id, name, department, manager_id FROM employee_db.employees;
+   - Except where the manager_id = 1, since that policy was inforced by the row-level security
 
 3. **Disallowed Queries**:
    - Attempting to select restricted columns (`ssn`, `address`, `salary`) will result in an error:
      SELECT ssn, address, salary FROM employee_db.employees;
+   - Except where the manager_id = 1, since that policy was inforced by the row-level security
    - Attempting to insert data will result in an error:
      INSERT INTO employee_db.employees (name, department, ssn, address, manager_id) VALUES ('Test', 'IT', '123-45-6789', '123 Test St', NULL);
 
